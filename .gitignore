@@ -1,3 +1,6 @@
 .idea/
 venv
 Tutorial.iml
+Tutorial/__pycache__
+*.pyc
+*.pyo
